@@ -1,12 +1,82 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tranquil Titans</title>
+  <style>
+    @font-face {
+      font-family: 'clash_regular';
+      src: url('clash_regular.otf') format('opentype');
+      font-weight: normal;
+      font-style: normal;
+    }
+    @font-face {
+      font-family: 'clash_bold';
+      src: url('clash_bold.otf') format('opentype');
+      font-weight: bold;
+      font-style: bold;
+    }
+    body {
+      background-image: url('background.png');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      background-size: 100% 100%;
+      background-position: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: center, middle;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      text-align: justify;
+    }
+    .container {
+      width: 80%;
+      text-align: justify;
+    }
+    h1 {
+      color: purple;
+      text-align: center;
+      font-family: 'clash_bold';
+    }
+    p {
+      color: yellow;
+      text-align: center;
+      font-family: 'clash_regular';
+      background-color: #87CEEB;
+    }
+    ul {
+      color: yellow;
+      text-align: center;
+      font-family: 'clash_regular';
+      background-color: #87CEEB;
+    }
+    li {
+      color: yellow;
+      text-align: center;
+      font-family: 'clash_regular';
+      background-color: #87CEEB;
+    }
+    em {
+      color: yellow;
+      text-align: center;
+      font-family: 'clash_regular';
+    }
+    h2 {
+      color: yellow;
+      text-align: center;
+      font-family: 'clash_regular';
+    }
+  </style>
 		<link rel="stylesheet" href="style.css">
+		<title>Tranquil Titans Clan</title>
 </head>
 	<body>
 		<div class="container">
 		<audio autoplay>
-  <source src="birds.mp3" type="audio/mpeg">
+  <source controls src="birds.mp3" type="audio/mpeg">
 Your browser does not support the audio element.
         </audio>
         </div>
