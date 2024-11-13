@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 	<head>
+		<title> Tranquil Titans </title>
 		<link rel="stylesheet" href="style.css">
-		<title> Tranquil Titans Clan </title>
 </head>
 	<body>
 		<div class="container">
