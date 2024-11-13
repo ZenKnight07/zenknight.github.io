@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<link rel="stylesheet" href="style.css">
-		<title>Tranquil Titans Clan</title>
+		<title> Tranquil Titans Clan </title>
 </head>
 	<body>
 		<div class="container">
