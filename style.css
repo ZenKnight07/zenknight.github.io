@@ -1,17 +1,17 @@
 @font-face {
     font-family : 'clash_regular';
-    src : url('fonts/clash_regular.otf') format('opentype');
+    src : url('clash_regular.otf') format('opentype');
     font-weight : normal;
     font-style : normal;
 }
 @font-face {
     font-family : 'clash_bold';
-    src : url('fonts/clash_bold.otf') format('opentype');
+    src : url('clash_bold.otf') format('opentype');
     font-weight : bold;
     font-style : bold;
 }
 body {
-	background-image : url('images/background.png');
+	background-image : url('background.png');
 	background-repeat : no-repeat;
 	background-attachment : fixed;
 	background-size : cover;
